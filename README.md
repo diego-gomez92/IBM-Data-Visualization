@@ -1,0 +1,2 @@
+# IBM-Data-Visualization
+This includes the materials from the IBM Data Visualization course from the IBM professional certificate. Among the materials, there are json, csv, and txt files, along with Jupyter notebooks. The course covers a wide array of plots, including waffle, histogram, line, bar, and many more. Finally, the final assignment focuses on making Choropleth maps to show the crimes in San Francisco in 2016. 
